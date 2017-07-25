@@ -1,0 +1,23 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "node and mysql ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrspeiser/nodemysql.git"
+  },
+  "author": "matthew speiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrspeiser/nodemysql/issues"
+  },
+  "homepage": "https://github.com/mrspeiser/nodemysql#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  }
+}
